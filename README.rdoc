@@ -1,0 +1,13 @@
+= Project Board
+== Display projects and articles
+=== This application is build using rails.
+
+My goal with this challenge is to teach myself Ruby on Rails by building a new web app.
+
+This week I built a Pinterest style web app, with Users, Pins, Image Uploading and all that good stuff!
+
+{View the complete application here}[http://projectboard.herokuapp.com/]
+
+---
+
+You can find me on {Twitter}[http://twitter.com/thandon20]
